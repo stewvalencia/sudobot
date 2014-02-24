@@ -1,0 +1,21 @@
+How to use sudobot?
+
+1. After opening the .exe or .jar file, enter your irc bot login credentials.
+2. On a sucessful login, please intialize channel by pressing Set Channel once
+	your irc bot arrives to the channel room.
+3. Once intialized, you can either:
+	a. Start the betting system.
+	b. Logout and stop the bot from running.
+	
+General Use Notes:
+-Entering wrong information will close the application, and will give you the login error
+warning when launched again.
+-Please close application after pressing Stop Bot, as you have nothing else to do.
+
+How to add custom music and sounds for betting system?
+
+Replace any startBet or closeBet mp3 file. These files are played randomly when you
+select their coressponding button.
+
+Sound Notes:
+startBet will always be repeated as it assumed the sound file is a song.
